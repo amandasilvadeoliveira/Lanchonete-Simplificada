@@ -5,7 +5,7 @@
 
 */
 #include <stdio.h>
-#include <string.h>
+#include <string.h> // foi utilizado a biblioteca string para facilitar na atribuição de dados as variaveis do tipo string
 
 #define maximo_de_pedidos 100 // Definindo um numero maximo para pedidos
 #define tamanho_nome 50 // Definindo o tamanho maximo de caracteres para as strings
@@ -112,3 +112,4 @@ int main(){
     return 0;
 
 }
+
